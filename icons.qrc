@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tnt.png</file>
+        <file>exit.png</file>
+        <file>about.png</file>
+        <file>update.png</file>
+        <file>preferences.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>owl.png</file>
+    </qresource>
+</RCC>
